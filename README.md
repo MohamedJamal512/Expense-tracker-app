@@ -12,7 +12,7 @@ An Android app built with Flutter for educational purposes. This app helps users
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/expense_tracker.git
+    git clone https://github.com/MohamedJamal512/Expense-tracker-app
     ```
 2. Install dependencies:
     ```bash
